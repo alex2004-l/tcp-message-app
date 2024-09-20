@@ -3,8 +3,6 @@
 #### Tema realizata de Lache Alexandra Florentina Georgiana, 321 CD
 ---
 
-### ! In rezolvarea acestei teme am pornit de la scheletul pentru laboratorul 7.
-
 `Server`
 
 - in aplicatia server, se deschid inital doi socketi, unul pentru a primi mesajele de la clientii UDP si unul pentru a accepta cererile de conectare de la clientii TCP
